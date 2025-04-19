@@ -168,3 +168,21 @@ body {
   color: #2e7d32;
   font-size: 1rem;
 }
+
+.card-group .card {
+  height: 100%;
+}
+
+.card-group .card img {
+  height: 250px;
+  object-fit: cover;
+}
+
+.card-group .card {
+  min-width: 0;
+}
+
+.card-group {
+  gap: 20px; 
+}
+
